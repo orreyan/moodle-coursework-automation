@@ -1,0 +1,7 @@
+groq
+playwright
+python-docx
+pdfplumber
+PyPDF2
+python-pptx
+openpyxl

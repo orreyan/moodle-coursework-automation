@@ -1,0 +1,11 @@
+.cud_credentials
+*.env
+.env
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+*.docx
+*.pdf
+*.pptx
+*.xlsx
